@@ -1,2 +1,4 @@
 name: My Site
-theme: minima
+theme: jekyll-theme-minimal
+title: The GOATest site
+description: The GOATs in this site go crazy with all thier insanely incredible ingeniousness!
