@@ -2,3 +2,13 @@ name: My Site
 theme: jekyll-theme-minimal
 title: The GOATest site
 description: The GOATs in this site go crazy with all thier insanely incredible ingeniousness!
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
