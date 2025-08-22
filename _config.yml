@@ -12,3 +12,9 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+collections:
+  redirects:
+    output: true
+
+plugins:
+  - jekyll-redirect-from
