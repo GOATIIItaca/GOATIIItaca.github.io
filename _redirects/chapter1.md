@@ -1,7 +1,7 @@
 ---
 layout: redirect
-redirect_to: "https://www.youtube.com/embed/Cjl8lNl3W1Y?si=fTpVbaJ478-Woypq"
+redirect_to: "https://www.youtube.com/embed/I-J11Da5ONY?si=hUCbxUNehn-7me5B"
 permalink: /chapter1
 ---
 
-Redirecting to <a href="https://www.youtube.com/embed/Cjl8lNl3W1Y?si=fTpVbaJ478-Woypq">https://www.youtube.com/embed/Cjl8lNl3W1Y?si=fTpVbaJ478-Woypq</a>
+Redirecting to <a href="https://www.youtube.com/embed/I-J11Da5ONY?si=hUCbxUNehn-7me5B">https://www.youtube.com/embed/I-J11Da5ONY?si=hUCbxUNehn-7me5B</a>
