@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import csv
+import argparse
 from pathlib import Path
 
 TEMPLATE = """---
@@ -31,3 +32,15 @@ if __name__ == "__main__":
     p.add_argument("out", help="Output folder (e.g., _redirects)")
     args = p.parse_args()
     main(args.csv, args.out)
+
+
+parser = argparse.ArgumentParser()
+parser.add_argument('csv',
+    nargs='?',
+    default='redirects.csv',
+    help='source CSV of slug,redirect_to')
+parser.add_argument('out',
+    nargs='?',
+    default='redirect_pages',
+    help='where to dump generated files')
+args = parser.parse_args()
